@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-04-29T00:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/358835566",
+      "properties": {
+        "@id": "node/358835566",
+        "amenity": "place_of_worship",
+        "community_resource": "food_pantry",
+        "ele": "14",
+        "gnis:county_id": "067",
+        "gnis:created": "03/25/1999",
+        "gnis:feature_id": "1817468",
+        "gnis:state_id": "06",
+        "name": "Del Paso Church of God",
+        "note": "Healthy food is distributed at this site at scheduled times throughout the year. For more information please call SFBFS' Food Hotline at (916) 313-7606 or visit www.sacramentofoodbank.org.",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4312923,
+          38.6414707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358835685",
+      "properties": {
+        "@id": "node/358835685",
+        "amenity": "place_of_worship",
+        "community_resource": "food_pantry",
+        "denomination": "baptist",
+        "ele": "14",
+        "gnis:county_id": "067",
+        "gnis:created": "03/26/1999",
+        "gnis:feature_id": "1819696",
+        "gnis:state_id": "06",
+        "name": "Del Paso Union Baptist Church",
+        "note": "Healthy food is distributed at this site at scheduled times throughout the year. For more information please call SFBFS' Food Hotline at (916) 313-7606 or visit www.sacramentofoodbank.org.",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4359819,
+          38.6305355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358836374",
+      "properties": {
+        "@id": "node/358836374",
+        "amenity": "place_of_worship",
+        "community_resource": "food_pantry",
+        "denomination": "methodist",
+        "ele": "9",
+        "gnis:county_id": "067",
+        "gnis:created": "03/26/1999",
+        "gnis:feature_id": "1820271",
+        "gnis:state_id": "06",
+        "name": "Century Chapel Christian Methodist Episcopal Church",
+        "note": "Healthy food is distributed at this site at scheduled times throughout the year. For more information please call SFBFS' Food Hotline at (916) 313-7606 or visit www.sacramentofoodbank.org.",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.476899,
+          38.526851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358836439",
+      "properties": {
+        "@id": "node/358836439",
+        "amenity": "place_of_worship",
+        "community_resource": "food_pantry",
+        "denomination": "methodist",
+        "ele": "9",
+        "gnis:county_id": "067",
+        "gnis:created": "03/26/1999",
+        "gnis:feature_id": "1820335",
+        "gnis:state_id": "06",
+        "name": "Oak Park United Methodist Church",
+        "note": "Healthy food is distributed at this site at scheduled times throughout the year. For more information please call SFBFS' Food Hotline at (916) 313-7606 or visit www.sacramentofoodbank.org.",
+        "religion": "christian",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4674533,
+          38.5497233
+        ]
+      }
+    }
+  ]
+}
